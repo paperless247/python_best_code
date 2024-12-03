@@ -1,0 +1,16 @@
+cipher
+    chardict
+    reversed chardict = dict(enumerate(alphabet))
+
+
+- py design patterns -> update to resume
+- finish w3
+- in easy steps
+- g2g design patterns
+
+- py coffee proj
+- look for py big book
+
+
+======
+Javascript -> math proj LCM and GCF
